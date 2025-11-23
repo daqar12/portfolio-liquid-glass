@@ -1,0 +1,8 @@
+# 1. Ignore everything in the folder
+*
+
+# 2. Do not ignore index.html (Keep this file)
+!index.html
+
+# 3. Do not ignore .gitignore itself (Required for these rules to work)
+!.gitignore
