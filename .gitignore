@@ -3,6 +3,7 @@
 
 # 2. Do not ignore index.html (Keep this file)
 !index.html
+!profile.html
 
 # 3. Do not ignore .gitignore itself (Required for these rules to work)
 !.gitignore
